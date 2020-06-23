@@ -1204,7 +1204,7 @@ body.ie .ibg img {
 	}
 */
 .footer {
-	background: url("../img/footer/footer__bg.webp") 0 0/cover no-repeat;
+	background: url("../img/footer/footer__bg.png") 0 0/cover no-repeat; 
 	padding: 70px 0px;
 	color: #ffffff;
 }
